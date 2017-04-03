@@ -1,0 +1,13 @@
+SALES TAXES
+Written By: Kevin Yang
+Programming Platform: IntelliJ
+
+At first I wanted to use javac to build the project, but the instructions in the interview mentioned IntelliJ or Eclipse so I went with IntelliJ.
+
+Unit tests in the same directory as class files
+
+non taxed items are listed in notax.txt, therefore do not use plural case for items, unless the plural case is also added into the file
+input must use base price regardless of qty
+
+Input orders line by line
+Print receipt with ctrl-d
